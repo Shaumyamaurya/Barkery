@@ -68,7 +68,7 @@ function myFunction() {
 }
 
 function myFunction1() {
-  document.getElementById("demo").innerHTML = "Thank you. We love to see the tails-wagging!<br><br> We have sent a link on your email to do the payment.";
+  document.getElementById("demo").innerHTML = "Thank you. We love to see the tails-wagging 🐕!<br><br> We have sent a link on your email to do the payment.";
 }
 var form = document.getElementById("contact");
 function handleForm(event) { event.preventDefault(); } 
